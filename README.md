@@ -46,6 +46,11 @@ cd ~/Desktop/body-shape-api
 
 # Create and activate virtual environment
 python3 -m venv venv
+
+# To activate virtual environment in windows
+venv\Scripts\activate
+
+# To activate virtual environment in Linux
 source venv/bin/activate
 
 # Upgrade pip
