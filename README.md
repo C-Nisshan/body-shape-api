@@ -41,7 +41,10 @@ body-shape-api/
 ### 2. Setup
 
 ```bash
-# Clone or enter your project folder
+# Clone the project
+git clone https://github.com/C-Nisshan/body-shape-api.git
+
+#enter your project folder
 cd ~/Desktop/body-shape-api
 
 # Create and activate virtual environment
